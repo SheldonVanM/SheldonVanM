@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SheldonVanM
 - 👀 I’m interested in programming, math, physics, electronics, and anything nerdy!
-- 🌱 I’m currently learning more about Angular, Spring, and C++ and Computational Physics.
+- 🌱 I’m currently learning more about Angular, Spring, Embedded Programming, and Computational Physics.
 
 <!---
 SheldonVanM/SheldonVanM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
