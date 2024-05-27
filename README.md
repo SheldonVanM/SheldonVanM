@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SheldonVanM
-- 👀 I’m interested in programming, math, physics, electronics, and anything nerdy!
+- 👀 I’m interested in programming, math, physics, and electronics.
 - 🌱 I’m currently learning more about Angular, Spring, Embedded Programming, and Computational Physics.
 
 <!---
